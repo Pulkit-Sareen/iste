@@ -24,7 +24,7 @@ import prishaAcharya from "../../assets/Core Images/Prisha.jpg";
 import divyamMittal from "../../assets/Core Images/divyam.jpg";
 import devyanshArya from "../../assets/Core Images/Devyansh.jpg";
 import meharAhuja from "../../assets/Core Images/Mehar.jpg";
-import marushika from "../../assets/Core Images/Marushika.WEBP";
+import marushika from "../../assets/Core Images/Marushika.jpg";
 import aryanPal from "../../assets/Core Images/ARYAN PAL.png";
 import arshia from "../../assets/Core Images/Arshia.jpg";
 import arpit from "../../assets/Core Images/Arpit.jpg";
