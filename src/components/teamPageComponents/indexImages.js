@@ -17,7 +17,7 @@ import ishaanP from "../../assets/EB EC Images/ishaanP.jpg";
 // import dixant from "../../assets/EB EC Images/dixant.jpg";
 
 import anshikaRathore from "../../assets/Core Images/Anshika.jpg";
-import saanvi from "../../assets/Core Images/saanvi.jpg";
+import saanvi from "../../assets/Core Images/Saanvi.jpg";
 import rudrakshChugh from "../../assets/Core Images/Rudraksh.jpg";
 import aryanSharma from "../../assets/Core Images/Aryan.jpg";
 import prishaAcharya from "../../assets/Core Images/Prisha.jpg";
